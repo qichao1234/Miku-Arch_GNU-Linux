@@ -1,6 +1,6 @@
 # Miku-Arch Linux
 
-![Hatsune Miku]()
+![Hatsune Miku](http://miku-arch.asuscomm.com:20002/api/public/dl/PPuJnSwg?inline=true)
 
 Miku-Arch 是一个基于 Arch Linux 的发行版，以日本虚拟偶像初音未来（Hatsune Miku）为主题。它提供了开箱即用的体验，并集成了多种与初音未来风格相符的定制模块和工具。
 
