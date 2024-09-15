@@ -35,7 +35,7 @@ Miku-Arch 是一个基于 Arch Linux 的发行版，以日本虚拟偶像初音�
 
 ## 许可证
 
-Miku-Arch 是基于 Arch Linux 的发行版，遵循 GPLv3 许可证。详细信息请参阅 [LICENSE](https://github.com/yourusername/miku-arch/blob/main/LICENSE) 文件。
+Miku-Arch 是基于 Arch Linux 的发行版，遵循 GNU Affero 通用公共许可证 v3.0。详细信息请参阅 [LICENSE](https://github.com/yourusername/miku-arch/blob/main/LICENSE) 文件。
 
 ---
 
