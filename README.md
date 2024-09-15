@@ -29,13 +29,13 @@ Miku-Arch 是一个基于 Arch Linux 的发行版，以日本虚拟偶像初音�
 
 我们欢迎所有对 Miku-Arch 感兴趣的人参与进来！您可以通过以下方式加入我们的社区：
 
-- **报告问题**：如果您遇到任何问题或错误，请在我们的 [GitHub Issues 页面](https://github.com/yourusername/miku-arch/issues) 上报告。
+- **报告问题**：如果您遇到任何问题或错误，请在我们的 [GitHub Issues 页面]([https://github.com/yourusername/miku-arch/issues]) 上报告。
 - **贡献代码**：如果您有改进或添加功能的好主意，欢迎您提交 pull request。
 - **加入讨论**：加入我们的 Discord 服务器或 Reddit 社区，与其他用户交流经验和建议。
 
 ## 许可证
 
-Miku-Arch 是基于 Arch Linux 的发行版，遵循 GNU Affero 通用公共许可证 v3.0。详细信息请参阅 [LICENSE](https://github.com/yourusername/miku-arch/blob/main/LICENSE) 文件。
+Miku-Arch 是基于 Arch Linux 的发行版，遵循 GNU Affero 通用公共许可证 v3.0。详细信息请参阅 [LICENSE](https://github.com/qichao1234/Miku-Arch_GNU-Linux/blob/main/LICENSE) 文件。
 
 ---
 
